@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judiihh!
 - 👀 I’m interested in the Bible, Anime, Series and Videogames.
 - 🌱 I’m currently learning Software Development @ Holberton.
-- ⚡ I’m looking to collaborate on projects involving C programming, Linux/Unix systems, and software development challenges that help me grow as a developer.
+- ⚡ I’m looking to collaborate on projects involving C programming, Linux/Unix systems, and any other challenges that help me grow as a developer.
 - 📫 You can reach me at my socials below my profile pic.
 - 💞️ Fun fact: I love pink, my beautiful cat and Golden Retrievers.
 
