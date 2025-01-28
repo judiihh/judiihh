@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Judith!
-- 👀 I’m interested in the Bible, Anime, Series and Videogames.
-- 🌱 I’m currently learning Software Development @ Holberton Coding School.
-- ⚡ I’m looking to collaborate on projects involving C programming, Linux/Unix systems, and any other challenges that help me grow as a developer.
+- 🌱 I’m a Software Engineering student @ Holberton Coding School.
+- ⚡ And just started my first job as a Software Engineer @ Celligence/Sun West Mortgage!
+- 👀 ALso, I’m interested in the Bible, Anime, Series and Videogames.
 - 📫 You can reach me at my socials below my profile pic.
 - 💞️ Fun fact: I love pink, my beautiful cat and Golden Retrievers.
 
