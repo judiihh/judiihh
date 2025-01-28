@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Judith!
 - 🌱 I’m a Software Engineering student @ Holberton Coding School.
 - ⚡ And just started my first job as a Software Engineer @ Celligence/Sun West Mortgage!
-- 👀 ALso, I’m interested in the Bible, Anime, Series and Videogames.
+- 👀 Also, I’m interested in the Bible, Anime, Series and Videogames.
 - 📫 You can reach me at my socials below my profile pic.
 - 💞️ Fun fact: I love pink, my beautiful cat and Golden Retrievers.
 
