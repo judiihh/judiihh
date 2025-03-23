@@ -15,7 +15,7 @@
 
 ---
 
-## 💡 **Projects I’m Proud Of**
+## 💡 **My Projects**
 🚀 **Simple Shell** (C)  
 A Bash shell clone built from scratch, handling commands, pipes, and process execution. Learned a ton about memory management and system calls.  
 
