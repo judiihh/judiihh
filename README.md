@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Judith!
-⚡ **Software Engineer @ Celligence/Sun West Mortgage Company**
+⚡ **Software Engineer @ Celligence|Sun West Mortgage Company**
 🌱 **Software Engineering Student @ Holberton Coding School**    
 👀 **Interests:** The Bible 📖, Anime 🎌, Series 📺, and Video Games 🎮  
 📫 **Reach me on my socials below my profile pic!**  
@@ -8,13 +8,13 @@
 ---
 
 ## 🔧 **Tech Stack**
-**Languages:** Python, C, SQL
+**Languages:** Python, C, SQL, HTML
 
 **Frameworks & Tools:** Jira, Flask, Apache Netbeans, Postman, MySQL
 
 **Dev Tools:** Git, GitHub, Linux (Ubuntu), VS Code 
 
-**Currently Learning:** JAVA, JSP, HTML & CSS
+**Currently Learning:** JAVA, JSP & CSS
 
 ---
 
@@ -28,9 +28,9 @@ A full-stack AirBnB clone using Flask and SQLAlchemy ORM, featuring user authent
 ---
 
 ## 🎯 **Beyond Coding**
-💡 **Front-End Passion:** I ant this to be my coding hobby.  
-🎨 **UI/UX Enthusiast:** I love blending creativity with functionality.  
-🎶 **Music:** Big fan of aesthetics and finding inspiration in different art forms.  
+💡 **Front-End Passion:** I want this to be my coding hobby one day.  
+🎤 **Singing:** I like to sing and love to do it at church!
+🎶 **Music:** Love every good music with good lyrics.  
 🌍 **Languages:** Spanish, improving my English everyday and hoping to learn Japanese one day. 
 
 ---
@@ -45,7 +45,7 @@ A full-stack AirBnB clone using Flask and SQLAlchemy ORM, featuring user authent
 💻 Transitioned from Medical Technology to Software Engineering.  
 🎀 Obsessed with pink (obviously).  
 🐱 My cat is my daughter & my coding buddy.  
-🐶 Golden Retrievers make my heart melt.  
+🐶 Golden Retrievers still make my heart melt.  
 🎮 Church, Anime, series, and games = my happy place.  
 
 ✨ **Favorite Quote:**  
