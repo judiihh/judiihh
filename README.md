@@ -8,13 +8,13 @@
 ---
 
 ## 🔧 **Tech Stack**
-**Languages:** Python, C, SQL, HTML
+- **Languages:** Python, C, SQL, HTML
 
-**Frameworks & Tools:** Jira, Flask, Apache Netbeans, Postman, MySQL
+- **Frameworks & Tools:** Jira, Flask, Apache Netbeans, Postman, MySQL
 
-**Dev Tools:** Git, GitHub, Linux (Ubuntu), VS Code 
+- **Dev Tools:** Git, GitHub, Linux (Ubuntu), VS Code 
 
-**Currently Learning:** JAVA, JSP & CSS
+- **Currently Learning:** JAVA, JSP & CSS
 
 ---
 
