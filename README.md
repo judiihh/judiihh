@@ -1,9 +1,12 @@
-# 👋 Hi, I’m Judith!
-⚡ **Software Engineer @ Celligence|Sun West Mortgage Company**
-🌱 **Software Engineering Student @ Holberton Coding School**    
-👀 **Interests:** The Bible 📖, Anime 🎌, Series 📺, and Video Games 🎮  
-📫 **Reach me on my socials below my profile pic!**  
-💞️ **Fun fact:** I love pink 🎀, my beautiful cat 🐱, and Golden Retrievers 🐶  
+### 🎀 Hey there, I’m Judith Espinal
+
+I'm a **Software Engineer at Celligence | Sun West Mortgage Company**, where I bring automation to life and turn mortgage business problems into tech solutions that make a real difference. By day, I'm coding and debugging in a fast-paced, real-world environment — and by night, I’m leveling up my skills as a **full-time Software Engineering student at Holberton School**, diving deep into data structures, C, Python, web development, and everything in between.
+
+My path into tech wasn't traditional, but it was definitely meant to be. With a background in **Medical Technology** and a passion for problem-solving, I transitioned into the world of code looking to make a bigger impact — and I found my spark. ✨ Today, I’m fully immersed in tech, with a love for **clean front-end designs**, **automation**, and building software that actually matters.
+
+Outside of work and school, I recharge through my **faith**, **anime marathons**, **cozy series**, and **gaming sessions** 🎮📺📖 (when I can find the time — LOL). I believe in mixing **passion with purpose**, and I'm just getting started. Ready to keep learning, building, and sharing this journey with the world. 💫
+
+Let’s connect — my socials are right below my profile pic! 😊 
 
 ---
 
