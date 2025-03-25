@@ -11,13 +11,13 @@ Let’s connect — my socials are right below my profile pic! 😊
 ---
 
 ## 🔧 **Tech Stack**
-- **Languages:** Python, C, SQL, HTML
+- **Languages:** C, Python & HTML
 
-- **Frameworks & Tools:** Jira, Flask, Apache Netbeans, Postman, MySQL
+- **Currently Learning:** JAVA, JSP, SQL, CSS & JavaScript
 
-- **Dev Tools:** Git, GitHub, Linux (Ubuntu), VS Code 
+- **Frameworks & Technologies:** Flask, REST APIs, MySQL
 
-- **Currently Learning:** JAVA, JSP & CSS
+- **Dev Tools & Platforms:** Git, GitHub, Jira & Postman | Apache Netbeans, VS Code & Cursor | Ubuntu & Windows
 
 ---
 
@@ -30,7 +30,7 @@ A full-stack AirBnB clone using Flask and SQLAlchemy ORM, featuring user authent
 
 ---
 
-## 🎯 **Beyond Coding**
+## 🌟 **Behind the Screens**
 💡 **Front-End Passion:** I want this to be my coding hobby one day.  
 🎤 **Singing:** I like to sing and love to do it at church!
 🎶 **Music:** Love every good music with good lyrics.  
@@ -38,13 +38,7 @@ A full-stack AirBnB clone using Flask and SQLAlchemy ORM, featuring user authent
 
 ---
 
-## 🌍 **Let’s Connect!**
-📌 [GitHub](https://github.com/judiihh)  
-📌 [LinkedIn](https://linkedin.com/in/judithespinal12)  
-
----
-
-## 🎲 **Fun Facts**
+## 💖 **Fun Facts**
 💻 Transitioned from Medical Technology to Software Engineering.  
 🎀 Obsessed with pink (obviously).  
 🐱 My cat is my daughter & my coding buddy.  
