@@ -1,4 +1,4 @@
-### 🎀 Hey there, I’m Judith Espinal
+## 🎀 Hey there, I’m Judith Espinal
 
 I'm a **Software Engineer at Celligence | Sun West Mortgage Company**, where I bring automation to life and turn mortgage business problems into tech solutions that make a real difference. By day, I'm coding and debugging in a fast-paced, real-world environment — and by night, I’m leveling up my skills as a **full-time Software Engineering student at Holberton School**, diving deep into data structures, C, Python, web development, and everything in between.
 
