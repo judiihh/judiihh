@@ -31,11 +31,11 @@ A full-stack AirBnB clone using Flask and SQLAlchemy ORM, featuring user authent
 ---
 
 ## 🌟 **Behind the Screens**
--💡 **Front-End Passion:** I want this to be my coding hobby one day.  
--🎤 **Singing:** I like to sing and love to do it at church!
--🎶 **Music:** Love every good music with good lyrics.
--🖥️ **Favorite TV Show:** I really LOVE Avatar: The Last Airbender
--🌍 **Languages:** Spanish, improving my English everyday and hoping to learn Japanese one day. 
+- 💡 **Front-End Passion:** I want this to be my coding hobby one day.  
+- 🎤 **Singing:** I like to sing and love to do it at church!
+- 🎶 **Music:** Love every good music with good lyrics.
+- 🖥️ **Favorite TV Show:** I really LOVE Avatar: The Last Airbender
+- 🌍 **Languages:** Spanish, improving my English everyday and hoping to learn Japanese one day. 
 
 ---
 
