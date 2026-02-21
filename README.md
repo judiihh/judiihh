@@ -11,13 +11,13 @@ Let’s connect — my socials are right below my profile pic! 😊
 ---
 
 ## 🔧 **Tech Stack**
-- **Languages:** C, Python & HTML
+- **Languages:** TypeScript, JavaScript, JAVA, JSP, C, Python, HTML & CSS
 
-- **Currently Learning:** JAVA, JSP, SQL, CSS & JavaScript
+- **Currently Learning:** TypeScript & JavaScript
 
-- **Frameworks & Technologies:** Flask, REST APIs, MySQL
+- **Frameworks & Technologies:** React, Flask, REST APIs, MySQL, MongoDB
 
-- **Dev Tools & Platforms:** Git, GitHub, Jira & Postman | Apache Netbeans, VS Code & Cursor | Ubuntu & Windows
+- **Dev Tools & Platforms:** Git, GitHub, Jira & Postman | Apache Netbeans, VS Code & Cursor | Ubuntu, Windows & MacOS
 
 ---
 
