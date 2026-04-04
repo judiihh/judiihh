@@ -1,50 +1,57 @@
 ## 🎀 Hey there, I’m Judith Espinal
 
-I'm a **Software Engineer at Celligence | Sun West Mortgage Company**, where I bring automation to life and turn mortgage business problems into tech solutions that make a real difference. By day, I'm coding and debugging in a fast-paced, real-world environment — and by night, I’m leveling up my skills as a **full-time Software Engineering student at Holberton School**, diving deep into data structures, C, Python, web development, and everything in between.
+I'm a **Full-Time Software Engineer at Celligence | Sun West Mortgage Company**, where I build real-world solutions that bring automation to life and improve mortgage servicing workflows. I’ve had the opportunity to grow across multiple teams including **Sunsoft West Team**, **AngelAi Team**, and currently the **Red Carpet Servicing Team**, gaining experience in both backend logic and front-end development.
 
-My path into tech wasn't traditional, but it was definitely meant to be. With a background in **Medical Technology** and a passion for problem-solving, I transitioned into the world of code looking to make a bigger impact — and I found my spark. ✨ Today, I’m fully immersed in tech, with a love for **clean front-end designs**, **automation**, and building software that actually matters.
+I’m also a **proud Holberton School graduate**, and I’ll always be grateful for the journey that shaped me into the engineer I am today. 🙏✨  
 
-Outside of work and school, I recharge through my **faith**, **anime marathons**, **cozy series**, and **gaming sessions** 🎮📺📖 (when I can find the time — LOL). I believe in mixing **passion with purpose**, and I'm just getting started. Ready to keep learning, building, and sharing this journey with the world. 💫
+My path into tech wasn't traditional, but it was definitely purposeful. With a background in **Medical Technology**, I transitioned into software engineering driven by curiosity, faith, and a desire to make a greater impact. Today, I specialize in **front-end development**, turning ideas into clean, intuitive, and meaningful user experiences — something that once was just a passion, and is now part of my everyday work. 💖
 
-Let’s connect — my socials are right below my profile pic! 😊 
+Outside of work, I recharge through my **faith**, **anime**, **cozy series**, and gaming 🎮 (yes… **MapleStory is back in my life**, and LoL is currently on vacation 😂). I believe in growing with intention, trusting God’s timing, and always giving my best in everything I do. 💫
+
+Let’s connect — my socials are right below my profile pic! 😊  
 
 ---
 
 ## 🔧 **Tech Stack**
-- **Languages:** TypeScript, JavaScript, JAVA, JSP, C, Python, HTML & CSS
-
-- **Currently Learning:** TypeScript & JavaScript
-
-- **Frameworks & Technologies:** React, Flask, REST APIs, MySQL, MongoDB
-
-- **Dev Tools & Platforms:** Git, GitHub, Jira & Postman | Apache Netbeans, VS Code & Cursor | Ubuntu, Windows & MacOS
+- **Languages:** TypeScript, JavaScript, Java, JSP, C, Python, HTML & CSS  
+- **Frameworks & Technologies:** React, Flask, REST APIs, MySQL, Oracle, MongoDB 
+- **Dev Tools & Platforms:** Git, GitHub, Jira, Postman  
+- **Environments:** VS Code, Cursor, Apache NetBeans | Ubuntu, Windows, macOS  
 
 ---
 
 ## 💡 **My Projects**
 🚀 **Simple Shell** (C)  
-A Bash shell clone built from scratch, handling commands, pipes, and process execution. Learned a ton about memory management and system calls.  
+A Bash shell clone built from scratch, handling commands, pipes, and process execution. Strengthened my understanding of memory management and system-level programming.  
 
 🏡 **Holberton HBnB** (Python & Flask)  
-A full-stack AirBnB clone using Flask and SQLAlchemy ORM, featuring user authentication, database management, and clean API integration.
+A full-stack AirBnB clone using Flask and SQLAlchemy ORM, with authentication, database management, and scalable architecture.  
+
+🩸 **VitaPink BloodBank App**  
+My final project — a meaningful application focused on blood bank management, combining real-world impact with full-stack development.  
+
+🌸 **Sugar Bloom WebApp**  
+A creative and aesthetic web application that reflects my love for front-end design and user experience.  
 
 ---
 
 ## 🌟 **Behind the Screens**
-- 💡 **Front-End Passion:** I want this to be my coding hobby one day.  
-- 🎤 **Singing:** I like to sing and love to do it at church!
-- 🎶 **Music:** Love every good music with good lyrics.
-- 🖥️ **Favorite TV Show:** I really LOVE Avatar: The Last Airbender
-- 🌍 **Languages:** Spanish, improving my English everyday and hoping to learn Japanese one day. 
+- 💻 **Front-End Developer:** This is now part of my everyday life — building UI that feels good and works even better.  
+- 🎤 **Singing:** I like to sing and love to do it at church!  
+- 🎶 **Music:** Love every good music with good lyrics. 
+- 🖥️ **Favorite Show:** I really LOVE Avatar: The Last Airbender 
+- 🌍 **Languages:** Spanish, improving my English daily, and hoping to learn Japanese one day.  
 
 ---
 
 ## 💖 **Fun Facts**
 💻 Transitioned from Medical Technology to Software Engineering.  
-🎀 Obsessed with pink (obviously).  
-🐱 My cat is my daughter & my coding buddy.  
+🎀 Pink is not a color, it’s a lifestyle.  
+🐱 My cat is my daughter & my coding buddy.   
 🐶 Golden Retrievers still make my heart melt.  
-🎮 Church, Anime, series, and games = my happy place.  
+🎮 Church, Anime, series, and games = my happy place. 
+
+---
 
 ✨ **Favorite Quote:**  
 _"Commit your work to the Lord, and your plans will be established." – Proverbs 16:3_  
@@ -57,10 +64,6 @@ _"Commit your work to the Lord, and your plans will be established." – Proverb
 
 ---
 
-<!---This keeps it **fun, structured, and uniquely you!** 🎀 Let me know if you want any tweaks! 😃💖 --->  
-
-
 <!---
-judiihh/judiihh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+judiihh/judiihh is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
